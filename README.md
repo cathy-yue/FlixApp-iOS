@@ -41,4 +41,4 @@ Describe any challenges encountered while building the app.
 <img src="https://i.imgur.com/cMYBWz4.gif" width=250><br>
 
 ### Notes
-I had a lot of compiler errors.
+Had some compiler errors and I also had to play with the settings on XCode. Also had some issues downloading cocoapods. 
