@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src='https://imgur.com/a/vTHo9kV' width='' alt='Video Walkthrough' />
+<img src="https://imgur.com/a/vTHo9kV?fbclid=IwAR3JdZ5Yd8g5Dr18SlaaGCN20ywHKICAARpgNDVScly_uLwdrxmMWOSezp8" width=250><br>
 
 ### Notes
 I had a lot of compiler errors.
